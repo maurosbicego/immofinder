@@ -1,0 +1,44 @@
+{
+    "location": "Bern",
+    "s": 2,
+    "t": 1,
+    "priceFrom": 0,
+    "priceTo": 2000,
+    "roomNumberMin": 1,
+    "roomNumberMax": 2.5,
+    "range": 5,
+    "searchKeywords": [],
+    "earliestAvailability": "2023-01-28T00:00:00+01:00",
+    "locations": [
+        {
+            "id": "Thun_BHF",
+            "maxDuration": 3600,
+            "coords": {
+                "lat": 46.754795110088565,
+                "lng": 7.629753025485851
+            },
+            "transportations": [
+                {
+                    "id": "0",
+                    "transportationTypeId": 10,
+                    "maxTravelTime": 14400
+                }
+            ]
+        },
+        {
+            "id": "Wankdorf_Center",
+            "maxDuration": 1200,
+            "coords": {
+                "lat": 46.962242724544595,
+                "lng": 7.466132684035754
+            },
+            "transportations": [
+                {
+                    "id": "0",
+                    "transportationTypeId": 10,
+                    "maxTravelTime": 14400
+                }
+            ]
+        }
+    ]
+}
